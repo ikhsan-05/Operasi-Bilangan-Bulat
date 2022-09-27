@@ -2,12 +2,12 @@
 Membuat soal bilangan bulat untuk membantu siswa belajar
 
 Untuk Android
-- Masuk file "Batu Gunting Kertas_1_1.0.apk" atau https://github.com/ikhsan-05/Operasi-Bilangan-Bulat/blob/main/Operasi%20Bilangan%20Bulat_1_1.0.apk
+- Masuk file "Operasi Bilangan Bulat_1_1.0.apk" atau https://github.com/ikhsan-05/Operasi-Bilangan-Bulat/blob/main/Operasi%20Bilangan%20Bulat_1_1.0.apk
 - Download file APK
 - Instal
 
 Untuk PC
-- Masuk ke file "Batu Gunting Kertas_PC.rar" atau https://github.com/ikhsan-05/Operasi-Bilangan-Bulat/blob/main/Operasi%20Bilangan%20Bulat.rar
+- Masuk ke file "Opersi Bilangan Bulat.rar" atau https://github.com/ikhsan-05/Operasi-Bilangan-Bulat/blob/main/Operasi%20Bilangan%20Bulat.rar
 - Download file RAR
 - Ekstrak
 - Jalankan file "index.html"
